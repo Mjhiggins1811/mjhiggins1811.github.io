@@ -55,3 +55,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jemoji
+  
+remote_theme: andrewhwanpark/brutalist-blog
+
