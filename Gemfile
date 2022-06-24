@@ -13,3 +13,6 @@ end
 
 # support for emojis
 gem 'jemoji'
+
+#theme bullshitery
+gem "jekyll-remote-theme"
