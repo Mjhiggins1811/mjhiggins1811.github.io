@@ -56,7 +56,7 @@ plugins:
   - jekyll-feed
   - jemoji
   
-remote_theme: andrewhwanpark/brutalist-blog
+#remote_theme: andrewhwanpark/brutalist-blog
 
 
 theme: jekyll-theme-cayman
