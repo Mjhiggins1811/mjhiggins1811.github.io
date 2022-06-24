@@ -58,3 +58,5 @@ plugins:
   
 remote_theme: andrewhwanpark/brutalist-blog
 
+
+theme: jekyll-theme-cayman
