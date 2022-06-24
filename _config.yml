@@ -27,7 +27,7 @@ url: https://andrewhwanpark.github.io/brutalist-blog/
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: /brutalist-blog
+#baseurl: /brutalist-blog
 
 # global author information
 author: Matt Higgins
