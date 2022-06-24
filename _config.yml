@@ -55,5 +55,3 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jemoji
-
-theme: jekyll-theme-cayman
