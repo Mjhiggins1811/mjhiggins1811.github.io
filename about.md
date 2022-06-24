@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+A loose collection of words that, generally speaking, are about games that I like.
 
-### More Information
+### contact me
 
-A place to include any other types of information that you'd like to include about yourself.
+[matthigginswords@gmail.com](mailto:matthigginswords@gmail.com)
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+### tips? :point_right: :point_left:
+[that'll show my parents](https://www.paypal.me/matthigginswords)
