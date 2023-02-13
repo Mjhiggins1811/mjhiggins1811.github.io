@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-A loose collection of words that, generally speaking, are about games that I like.
+A collection of some words I've written.
 
 ### contact me
 
