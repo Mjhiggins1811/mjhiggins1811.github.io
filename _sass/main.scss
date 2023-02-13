@@ -3,6 +3,11 @@ table {
   @extend .table-striped;
 }
 
+div.post {
+  margin-left: 150px;
+  margin-right: 150px;
+}
+
 blockquote {
   @extend .blockquote;
 }
