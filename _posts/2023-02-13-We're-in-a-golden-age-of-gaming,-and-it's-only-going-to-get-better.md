@@ -1,6 +1,6 @@
 ---
 layout: post
-title: We're in a golden age of game dev, and it's getting better
+title: We're in a golden age of game dev, and it's only getting better
 ---
 I'm a big fan of [Godot](https://godotengine.org/). Not the Samuel Beckett non-character, but the open source, free to use, game engine made by project founders Ariel Manzur and Juan Linietsky as well as a whole host of other devs and contributors. In my mind its powerful yet easy to use nature combined with its completely open source philosophy makes it the perfect choice for the indie dev on the street in 2023. With Godot fast approaching the release of its fourth (very exciting) revision, I’ve been thinking a lot about how the game dev space has been changing, and what those changes mean for the future.
 

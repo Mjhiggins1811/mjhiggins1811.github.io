@@ -3,22 +3,25 @@ table {
   @extend .table-striped;
 }
 
-
-div.post {
-  justify-content: left;
-  margin-left: 10rem;
-  margin-right: 10rem;
+@media  screen and (min-width: 1000px) {
+  div.post {
+    justify-content: left;
+    margin-left: 10rem;
+    margin-right: 10rem;
+  }
+  
+  div.archive {
+    margin-left: 10rem;
+    margin-right: 10rem;  
+  }
+  
+  div.page {
+    margin-left: 10rem;
+    margin-right: 10rem;  
+  }
+  
 }
 
-div.archive {
-  margin-left: 10rem;
-  margin-right: 10rem;  
-}
-
-div.page {
-  margin-left: 10rem;
-  margin-right: 10rem;  
-}
 
 blockquote {
   @extend .blockquote;
