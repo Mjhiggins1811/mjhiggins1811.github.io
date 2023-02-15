@@ -19,7 +19,23 @@ table {
     margin-left: 10rem;
     margin-right: 10rem;  
   }
+
+  .navbar {
+    margin-bottom: 2rem;
+    margin-left: 10rem;
+    margin-right: 10rem;
+    border-bottom: 0.125rem solid hsl(0, 0%, 30%);
+  }
   
+
+}
+
+@media screen and (max-width: 999px){
+  .navbar {
+    margin-bottom: 2rem;
+    border-bottom: 0.125rem solid hsl(0, 0%, 30%);
+  }
+    
 }
 
 
@@ -32,12 +48,6 @@ img {
   margin-bottom: 1rem;
 }
 
-.navbar {
-  margin-bottom: 2rem;
-  margin-left: 10rem;
-  margin-right: 10rem;
-  border-bottom: 0.125rem solid hsl(0, 0%, 30%);
-}
 
 .archive-year {
   margin-top: 2rem;
