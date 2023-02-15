@@ -3,13 +3,21 @@ table {
   @extend .table-striped;
 }
 
-div.body{
-  margin-left: 7rem;
-  margin-right: 7rem;
-}
 
 div.post {
   justify-content: left;
+  margin-left: 10rem;
+  margin-right: 10rem;
+}
+
+div.archive {
+  margin-left: 10rem;
+  margin-right: 10rem;  
+}
+
+div.page {
+  margin-left: 10rem;
+  margin-right: 10rem;  
 }
 
 blockquote {
