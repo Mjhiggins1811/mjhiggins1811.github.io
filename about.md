@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-A collection of some words I've written.
+A place for some of the words I write.
 
 ### contact me
 

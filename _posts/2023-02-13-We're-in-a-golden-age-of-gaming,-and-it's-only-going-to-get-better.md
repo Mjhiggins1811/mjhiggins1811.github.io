@@ -1,10 +1,10 @@
 ---
 layout: post
-title: We're in a golden age of game dev, and it's only gonna get better
+title: We're in a golden age of game dev, and it's getting better
 ---
 I'm a big fan of [Godot](https://godotengine.org/). Not the Samuel Beckett non-character, but the open source, free to use, game engine made by project founders Ariel Manzur and Juan Linietsky as well as a whole host of other devs and contributors. In my mind its powerful yet easy to use nature combined with its completely open source philosophy makes it the perfect choice for the indie dev on the street in 2023. With Godot fast approaching the release of its fourth (very exciting) revision, I’ve been thinking a lot about how the game dev space has been changing, and what those changes mean for the future.
 
-You see, I have a pet theory that we’re entering (or perhaps are already in) an artistic golden age of gaming.
+You see, I have a pet theory that we’re entering or maybe allready in the midst of an artistic golden age of gaming.
 
 The main reason I think this is pretty simple; it’s easier now for an average person to just make a game than it has ever been and, importantly, the tools that make this true have been around long enough to prove themselves by being behind titles that have seen success in the big commercial arenas like Steam and the major consoles.
 
@@ -16,6 +16,6 @@ Games like *Stardew Valley*, *Celeste*, *Axiom Verge* and *Undertale* have been 
 
 And even you if can’t afford the $5.99 a month for game maker and don’t want to sign Unity or Unreal’s novelesque service agreements, Godot, which is completely free and unrestricted, is already seeing success with steam front page worthy games like *Dome Keeper* and *Cruelty Squad*, a list that’s sure to expand with the improvements coming with Godot 4.
 
-The point of this is people have proved it’s possible. And not in a in you sacrifice you cat’s left testicle and pray to the sun god you might be in with a shot way, in a people like me do and have done this way. Someone who enjoyed Stawdew Valley might have might have a casual google to find out how it was made. Within a matter of minutes (assuming they have download speed with some impressive privates) they can be hands on with the tools used to make, maybe even start making there own Stawdew Valley. The important two important things here are the exposure these tools are getting and the confidence potential devs can have in them, given other devs have already been down these roads and enjoyed succsess both comercially and artistically.
+The point of this is people have proved it’s possible. And not in a in you sacrifice you cat’s left testicle and pray to the sun god you might be in with a shot way, in a people like me do and have done this way. Someone who enjoyed Stardew Valley might have might have a casual google to find out how it was made. Within a matter of minutes (assuming they have download speed with some impressive cajohones) they can be hands on with the tools used to make, maybe even start making there own Stawdew Valley. The important two important things here are the exposure these tools are getting and the confidence potential devs can have in them, given other devs have already been down these roads and enjoyed succsess both comercially and artistically.
 
 It’s basic maths really. More people making games equals more games equals more good games. It also equals more types of people making games, more perspectives in game development and more issues being talked about. These the conditions in which art thrives and in which the best art is made. Gaming has often been viewed as a second class art form and this explosion in creativity is, I think, set to change that. The future looks set to hold some absolute classics and I can’t wait to play them.

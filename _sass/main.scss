@@ -7,6 +7,11 @@ div.post {
   justify-content: left;
 }
 
+div {
+  margin-left: 10rem;
+  margin-right: 10rem;
+}
+
 blockquote {
   @extend .blockquote;
 }
