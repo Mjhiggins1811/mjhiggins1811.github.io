@@ -3,15 +3,13 @@ table {
   @extend .table-striped;
 }
 
-div.post {
-  justify-content: left;
-  margin-left: 5rem;
-  margin-right: 5rem;
+div.body{
+  margin-left: 7rem;
+  margin-right: 7rem;
 }
 
-div.archive {
-  margin-left: 5rem;
-  margin-right: 5rem;  
+div.post {
+  justify-content: left;
 }
 
 blockquote {
