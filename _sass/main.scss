@@ -5,10 +5,14 @@ table {
 
 div.post {
   justify-content: left;
-  margin-left: 2rem;
-  margin-right: 2rem;
+  margin-left: 5rem;
+  margin-right: 5rem;
 }
 
+div.archive {
+  margin-left: 5rem;
+  margin-right: 5rem;  
+}
 
 blockquote {
   @extend .blockquote;
@@ -21,8 +25,8 @@ img {
 
 .navbar {
   margin-bottom: 2rem;
-  margin-left: 2rem;
-  margin-right: 2rem;
+  margin-left: 5rem;
+  margin-right: 5rem;
   border-bottom: 0.125rem solid hsl(0, 0%, 30%);
 }
 
