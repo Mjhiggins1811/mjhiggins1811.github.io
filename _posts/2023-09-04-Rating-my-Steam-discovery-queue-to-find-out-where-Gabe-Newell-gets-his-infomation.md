@@ -1,21 +1,21 @@
 For a long time I've been pretty suspicious of the concept of steam's discovery queues. How does he know? What dark magiks does Gabe Newell employ to work out that I might buy a game that's kind of like some other games that I play quite a bit? It's probably something sinister, so I put my big boy investigative journalism trousers on and dove head first into my discovery queue. These are the games it thinks I might buy and what my investigation super powers learnt from each one.
-1. Hogwarts Legacy
+1. Hogwarts Legacy\
 Look at it this way, the only way is up. It's not that I've got anything against wizards, just that I also don't have anything against human rights. Even if I was wizard fan, I'm pretty sure there are ways to obtain (wink wink) this without funding TERFs. An uncharacteristic swing and a miss for the god king Newell to start. Might be trying to throw me off, so I'm staying vigilant. 
-2. Pizza time
+2. Pizza time\
 A solid improvement. Looks like Gabe's been through my bins and discovered that I'm more than familiar with the concept of having a 'pizza time'.
 3. Dead Space Remake
 I played a couple of hours of dead space 2 around 2016. I enjoyed it. I don't know how Gabe Newell got hold of this information just yet, but frankly the implication that he's been preparing since at least 2016 is worrying. 
-4. Undisputed
+4. Undisputed\
 For those unfamiliar, Undisputed is (according to it's steam page) 'the most authentic boxing game to date'. I went to a first year common room to watch a boxing match one time when I was at university. I didn't notice it at the time, but Gabe must have also attended the University of York in 2019 and, more importantly, must have also made his way into a screening of an Anthony Joshua fight in the Alcuin common room. He was probably too focused on the fight to notice I didn't know what was going on and was not at any point thinking 'I should look for the most authentic boxing game to date'.
-5. Dwarf Fortress
+5. Dwarf Fortress\
 He's in my head. I was rapidly approaching the purchase of this game. He must be reading my mind. Invading my dream space. Gabe Newell has jacked in to my literal brain and I don't know how to stop him.
 6. Spider man: Miles Morales
 Looks like he's circling back to the pizza time thing. Clearly Gabe's not a Rami fan because he's got the wrong Spiderman. Still, he's got what I consider to be the better Spiderman of the two. More evidence that he is indeed in my head and has discovered my superior taste in Spidermen. I also like Tom Holland.
-7. Hifi Rush
+7. Hifi Rush\
 Looks like he's set up a pretty comfortable family home inside my head as he struck upon the fact that I do indeed get a rush from Hi-fi equipment. Set me up with a reel to reel machine or something weird to do with mini-discs and I'll be unreasonably interested for an amount of time I can only describe as chronically single. That's not got anything to do with the actual game so he's probably hoping that the title will be enough to do it for me. He is correct.
-8. GloriaVictis
+8. GloriaVictis\
 It's a low fantasy multiplayer sword them up. Clearly Gabe hasn't yet discovered the social anxiety section of my head, which is worrying because it suggests the Hifi section is much bigger than I previously thought. The other gamers are mean, Gabe, and I don't to play with them. They might try to talk to me.
 9. Football Manager 2023
 It's true, I am kind of an arsehole and therefore would be well suited to football management. Still, seems odd to pay £45 to shout at some men when I can go to the pub and do that for the low price of bodily harm. Looks like Gabe's taken a liking to my mortal form and doesn't want to see me beaten up for criticizing Phil Phoden's technique at full volume directly at large northern man. The care he's begun to express for my health is, frankly, a worrying development.
-10. Terra Invictus 
+10. Terra Invictus\
 According to the linguistics degree that I knew would come in useful one day, that means something like 'conquering land' in Latin. I believe this is threat. Gabe Newell has made his intentions clear. He wants my Hifi rush and weekly pizza times for himself and I don't know if I'll be able to stop him. He's gotten this far completely unnoticed and I'm not sure if I can resist the sort of force powerful enough to not make half life 3. All that's I can do now is share the discoveries I've made with the public. Gabe Newell posses the technology to jack in to your Hifi rush, dear reader. He possesses both the technology nessacary and the intent to do so. Gabe Newell is coming. Judgement day is upon us.
